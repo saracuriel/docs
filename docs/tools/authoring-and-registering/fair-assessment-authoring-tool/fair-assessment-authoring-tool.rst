@@ -94,7 +94,7 @@ If your assessment component is a **FAIR Test**, this submission will also regis
 
 Other support materials
 -----------------------
-You can find an extended user guide with the most frequent errors and questions when registering a FAC using this tool here: `Extended User Guide` < 
+You can find an extended user guide with the most frequent errors and questions when registering a FAC using this tool here: `Extended User Guide <extended-guide.rst>`_
 
 References
 ----------

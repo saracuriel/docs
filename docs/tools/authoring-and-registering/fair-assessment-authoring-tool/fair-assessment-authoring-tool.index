@@ -111,3 +111,9 @@ Contact us
 
 Any question or issue related to this workflow, please contact:
 ``pablo.alarcon@upm.es``
+
+.. toctree::
+    :maxdepth: 1
+    :titlesonly:
+
+    Extended User Guide <extended-guide>

@@ -247,7 +247,7 @@ If submission fails or returns an error, work through these steps:
 
 .. _quick-reference:
 
-Other issues you may encounter
+Quick references:
 ---------------------------------
 
 .. list-table::

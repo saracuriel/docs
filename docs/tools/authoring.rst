@@ -10,7 +10,7 @@ The following resources in this section are part of the FAIR Tools component.
     :titlesonly:
 
     FAIRassist (Conceptual Component Registry) <authoring-and-registering/fairassist>
-    Assessment Component Authoring Tool <authoring-and-registering/assessment-authoring-tool/index>
+    Assessment Component Authoring Tool <authoring-and-registering/fair-assessment-authoring-tool-index>
     FAIR Validator <quality-control/fair-validator>
     OSTrails Software Tools Registry <authoring-and-registering/ostrails-index>
 

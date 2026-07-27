@@ -6,7 +6,7 @@ The following resources in this section are part of the FAIR Tools component.
 
 .. toctree::
     :caption: Authoring and Registration Tools
-    :maxdepth: 1
+    :maxdepth: 3
     :titlesonly:
 
     FAIRassist (Conceptual Component Registry) <authoring-and-registering/fairassist>

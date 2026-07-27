@@ -15,10 +15,6 @@ FAIR Wizard: extended guide
 Further information on how to fill in, update, and troubleshoot
 projects — independently.
 
-.. contents:: Jump to section
-   :local:
-   :depth: 1
-
 
 Best practices
 ---------------
@@ -273,13 +269,3 @@ Other issues you may encounter
      - Check the answers to integration questions + check whether some
        answers are not saved into the answer box + re-generate the
        document
-
-For more information, you can refer to:
-
-- `OSTrails Read the Docs documentation <https://docs.ostrails.eu/en/latest/tools/fair/fair-assessment-authoring-tool.html>`_
-- `Video tutorial <https://openaireeu.sharepoint.com/:v:/r/sites/OSTrails/Shared%20Documents/WP3%20-%20Assessment%20tools%20and%20services/Videos/How%20To%20Register%20FAIR%20Assessment%20Components%20(FACs)%20Using%20the%20FAIR%20Assessment%20Authoring%20(FAIR%20Wizard)%20Tool.mp4?csf=1&web=1&e=KPKdV7>`_
-
-----
-
-*Last updated June 2026 ·* `OSTrails <https://ostrails.eu>`_ *·*
-`FAIRsharing <https://fairsharing.org>`_

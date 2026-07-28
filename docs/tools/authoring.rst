@@ -6,8 +6,8 @@ The following resources in this section are part of the FAIR Tools component.
 
 .. toctree::
     :caption: Authoring and Registration Tools
-    :maxdepth: 1
+    :maxdepth: 2
     :titlesonly:
 
-    Assessment Component Authoring and Registration Tool <authoring-and-registering/fair-assessment-authoring-tool>
+    Assessment Component Authoring and Registration Tool <authoring-and-registering/fair-assessment-authoring-tool-index>
 

@@ -192,6 +192,7 @@ template, make sure to check for updates when generating new documents
 and before submitting them. You will know if any new version is
 available by clicking on the selected template under the "Default
 document template" section in the "Settings" tab of a project.
+You can also find out whether you’re using a deprecated template when at the moment of creating a new document, another version of it is suggested if clicking on the one under the “Document Template” section.
 
 
 .. _how-to-update:

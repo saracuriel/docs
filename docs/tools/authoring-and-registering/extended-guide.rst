@@ -28,7 +28,7 @@ Best practices
 
   Please, make sure you understand what you're being asked, and how to
   respond to each type of question. Different questions might need or
-  allow only a certain type of formatted answers, such as URLs.
+  allow only a certain type of formatted answer, such as URLs.
 
 - **Make sure you know how to use integration questions properly.**
   See the :ref:`integration-questions` section for more information on
@@ -112,11 +112,9 @@ Frequent issues related to integration questions:
    of the cases, you may notice that the text in the answer box is
    displayed with a raw markdown format, e.g. you will see
    ``**text**`` instead of **text**, which is a very clear sign that
-   this is happening.
+   this is happening. Another sign is that the numerical ID associated with a previous answer is no longer present.
 
-   To fix this, make sure you clean previous answers for all the
-   integration questions and answer them again, once you have
-   migrated the KM to the latest version.
+   To fix this, make sure you migrate the KM to the latest version (see :ref:`km-updates` below) and then clear previous answers for all the integration questions and answer them again.
 
 .. admonition:: Too long in the pipeline
    :class: note
@@ -208,14 +206,10 @@ For Benchmarks and Metrics records
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you first submit your FAC document, it will feed into both
-FAIRsharing and the FAIR Champion FDP Index (via GitHub). If you wish
+FAIRsharing and the FAIR Champion FDP Index (via GitHub, creating appropriate records in both locations. If you wish
 to update your FAC, you will need to submit a new version of the
-document. This will create a new record in the GitHub repository and
-will eventually be updated in the FAIR Champion FDP Index. However, if
-your record was already accepted to register in FAIRsharing, any
-further modification should also be made through the FAIRsharing
-platform. Submitting an updated version of your FAIR Wizard project
-will **not** push any changes into FAIRsharing.
+document. This will create a new record in the GitHub repository and will eventually be updated in the FAIR Champion FDP Index. 
+However, submitting an updated version of your FAIR Wizard project will **NOT** push any changes into your FAIRsharing record. As a curated registry, once your record is created by FAIR wizard, FAIRsharing requires that further updates should be made directly through the FAIRsharing platform (see FAIRsharing documentation at https://fairsharing.gitbook.io/)
 
 For Tests records
 ~~~~~~~~~~~~~~~~~~~

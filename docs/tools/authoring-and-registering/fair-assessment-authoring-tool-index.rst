@@ -3,14 +3,13 @@
 FAIR Assessment Authoring Tool
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A complete framework for **generating, registering, and authoring your FAIR assessment components** across different metadata repositories.
+A complete framework for **generating, registering, and authoring your FAIR assessment components (FACs)** across different metadata repositories.
 
 The different FAIR assessment metadata components:
 
 * FAIR Benchmark
 * FAIR Metric
 * FAIR Test
-* FAIR Benchmark Algorithm
 
 Authoring workflow
 ------------------
@@ -40,8 +39,7 @@ The following table summarises the available submission options:
 +=======================+================+============================+==============================================+
 | FAIRsharing Record    | JSON           | FAIRsharing Registry       | Benchmarks and Metrics                       |
 +-----------------------+----------------+----------------------------+----------------------------------------------+
-| DCAT Record           | RDF (Turtle)   | GitHub / FAIR Data Point   | Benchmarks, Metrics, Tests, Scoring          |
-|                       |                |                            | Algorithms                                   |
+| DCAT Record           | RDF (Turtle)   | GitHub / FAIR Data Point   | Benchmarks, Metrics, Tests                   |
 +-----------------------+----------------+----------------------------+----------------------------------------------+
 | FDP Test Record       | RDF (Turtle)   | GitHub / FAIR Data Point   | Tests                                        |
 +-----------------------+----------------+----------------------------+----------------------------------------------+
@@ -94,6 +92,10 @@ Depending on your document format:
 If your assessment component is a **FAIR Test**, this submission will also register the test in the
 `OSTrails FAIR Data Point test index <https://tools.ostrails.eu/fdp-index/>`_.
 
+Other support materials
+-----------------------
+You can find an extended user guide with the most frequent errors and questions when registering a FAC using this tool here: `Extended User Guide <extended-guide.rst>`_
+
 References
 ----------
 
@@ -108,4 +110,10 @@ Contact us
 ----------
 
 Any question or issue related to this workflow, please contact:
-``pablo.alarcon@upm.es``
+``sara.curiel.manzanas@upm.es``
+
+.. toctree::
+    :maxdepth: 1
+    :titlesonly:
+
+    Extended User Guide <extended-guide>
